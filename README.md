@@ -19,7 +19,17 @@
         <li>Styled Components</li>
       </ul>
     </td>
-    <td>REDUX</td>
-    <td>Gatsby Js</td>
+    <td>
+        <li>Reacts Js</li>
+        <li>Redux</li>
+        <li>Hooks</li>
+        <li>Styled Components</li>
+    </td>
+    <td>
+        <li>Reacts Js</li>
+        <li>Redux</li>
+        <li>Hooks</li>
+        <li>Styled Components</li>
+    </td>
   </tr>
 </table>
