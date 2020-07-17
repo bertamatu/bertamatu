@@ -1,5 +1,5 @@
 <hr>
-<a href="https://www.linkedin.com/in/bertam/" target="_blank">LinkedIn</a> | <code> 🔍   Actively looking for a front-end developer/software engineer position!  </code>
+<h1><a href="https://www.linkedin.com/in/bertam/" target="_blank">LinkedIn</a>  </h1> <code> 🔍   Actively looking for a front-end developer/software engineer position!  </code>
 <hr>
 <h1>PORTFOLIO </h1>
 <hr>
