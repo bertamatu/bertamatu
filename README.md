@@ -1,4 +1,4 @@
-<img src="https://im2.ezgif.com/tmp/ezgif-2-4c73c0a3826d.gif" align="right" alt="portfolio-image" width="650" height="400" borderRadius="50">
+<img src="https://im2.ezgif.com/tmp/ezgif-2-4c73c0a3826d.gif" align="right" alt="portfolio-image" width="100%" height="auto" borderRadius="50" >
 <h1><a href="https://www.linkedin.com/in/bertam/" target="_blank">LinkedIn</a>  </h1> <code> Actively looking for a front-end developer/software engineer position!  </code>
 <hr>
 <h1>PORTFOLIO</h1> <span><a href="https://www.bertamatu.com" target="_blank">BERTAMATU</a></span>
