@@ -1,4 +1,4 @@
-<img src="https://im2.ezgif.com/tmp/ezgif-2-4c73c0a3826d.gif" align="right" alt="portfolio-image-does-not-appear-on-safari" width="600" height="auto">
+<img src="" align="right" alt="portfolio-image-does-not-appear-on-safari" width="600" height="auto">
 <a href="https://www.linkedin.com/in/bertam/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"/></a>
 <br>
 <code>Actively looking for a front-end developer/software engineer position!</code>
