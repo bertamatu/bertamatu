@@ -1,13 +1,7 @@
 <span><img src="https://img.shields.io/github/followers/bertamatu?style=social" height="20em" /></span>
-<span>&nbsp;&nbsp;</span>
-<span><img src="https://visitcount.itsvg.in/api?id=bertamatu&label=Profile%20Views&color=0&icon=1&pretty=true" height="20"/></span>
-<span>&nbsp;</span>
-<span><img src="https://img.shields.io/github/stars/bertamatu/bertamatu?style=plastic&color=red&labelColor=white" height="19" /></span>
-  <br>
 ---
 <a href="https://www.linkedin.com/in/bertam/" target="_blank"><img height="30em" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/berta.codes/" target="_blank"><img height="30em" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-<a href="https://twitter.com/bertacodes/" target="_blank"><img height="30em" src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
 <a href="https://www.youtube.com/channel/UCMqzzvA2OCepIrnvkK1sMEQ/" target="_blank"><img height="30em" src="https://img.icons8.com/color/48/000000/youtube--v1.png"/></a>
 <a href="https://www.berta.codes" target="_blank"><img height="30em" src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
 <a href="mailto:berta.codes@gmail.com" target="_blank"><img height="30em" src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
